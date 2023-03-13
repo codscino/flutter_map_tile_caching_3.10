@@ -1,5 +1,16 @@
-# Example Application For '[flutter_map_tile_caching](https://github.com/JaffaKetchup/flutter_map_tile_caching)'
+# pippostate
 
-Showcases functionality of the library in a neat and useful format that can be used for further API references, and just to see if you want this library for your app.
+A new Flutter project.
 
-See the [example installation instructions](https://fmtc.jaffaketchup.dev/get-started/example) on the main project's documentation website.
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
